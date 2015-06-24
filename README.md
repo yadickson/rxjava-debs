@@ -26,9 +26,17 @@ debuild -S -nc -uc -us
 **Tested**
 
 ```
-Debian wheezy
-```
-```
 Debian jessie
 ```
+
+**Build dependencies**
+
+- debhelper (>= 9)
+- cdbs
+- default-jdk
+- maven-debian-helper (>= 1.5)
+
+**Check release**
+
+[Release page](https://github.com/yadickson/rxjava-debs/releases)
 
