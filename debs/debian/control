@@ -1,10 +1,12 @@
-Source: reactivex
+Source: rxjava
 Section: java
 Priority: optional
 Maintainer: Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>
 Uploaders: Yadickson Soto <yadickson@gmail.com>
 Build-Depends: debhelper (>= 9), cdbs, default-jdk, maven-debian-helper (>= 1.5)
 Standards-Version: 3.9.6
+Vcs-Git: git://anonscm.debian.org/pkg-java/rxjava.git
+Vcs-Browser: https://anonscm.debian.org/cgit/pkg-java/rxjava.git
 Homepage: https://github.com/ReactiveX/RxJava
 
 Package: libreactivex-java

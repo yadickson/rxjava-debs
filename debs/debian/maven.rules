@@ -1,2 +1,2 @@
 
-io.reactivex rxjava jar s/1\..*/1.x/ * *
+io.reactivex reactivex jar s/1\..*/1.x/ * *

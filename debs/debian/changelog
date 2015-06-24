@@ -1,6 +1,13 @@
-reactivex (1.0.12-1) unstable; urgency=low
+rxjava (1.0.12-2) unstable; urgency=medium
 
-  * New release
+  * Fix lintian warning
+  * Update pom.xml file
+
+ -- Yadickson Soto <yadickson@gmail.com>  Wed, 24 Jun 2015 16:37:03 -0430
+
+rxjava (1.0.12-1) unstable; urgency=low
+
+  * Initial commit
 
  -- Yadickson Soto <yadickson@gmail.com>  Thu, 05 Jan 2012 18:25:14 -0430
 

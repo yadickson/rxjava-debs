@@ -1,1 +1,3 @@
 
+io.reactivex reactivex jar s/1\..*/1.x/ * *
+
