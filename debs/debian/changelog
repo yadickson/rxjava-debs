@@ -1,3 +1,9 @@
+rxjava (1.0.12-3) unstable; urgency=medium
+
+  * Fix pom.xml file and GroupID
+
+ -- Yadickson Soto <yadickson@gmail.com>  Sun, 12 Jul 2015 23:49:02 -0430
+
 rxjava (1.0.12-2) unstable; urgency=medium
 
   * Fix lintian warning

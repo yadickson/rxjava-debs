@@ -9,7 +9,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-java/rxjava.git
 Vcs-Browser: https://anonscm.debian.org/cgit/pkg-java/rxjava.git
 Homepage: https://github.com/ReactiveX/RxJava
 
-Package: libreactivex-java
+Package: librxjava-java
 Architecture: all
 Depends: ${misc:Depends}, ${maven:Depends}
 Suggests: ${maven:OptionalDepends}
